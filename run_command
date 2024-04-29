@@ -1,0 +1,2 @@
+streamlit run app.py
+#The patient took aspirin 500mg for headache. The headache improved but the patient experienced stomach pain.
